@@ -1,0 +1,6 @@
+{
+  "name": "NEXA",
+  "description": "Platform social media modern dan ekosistem digital mobile-first untuk pengguna, creator, dan brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
